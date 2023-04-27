@@ -13,5 +13,5 @@
 
 🛠️ Technical Skills:
 
-Programming Languages: TypeScript, Go, Java
+Programming Languages: TypeScript, Go
 Frameworks & Libraries: Node.js, Express.js, NestJS, React.js
